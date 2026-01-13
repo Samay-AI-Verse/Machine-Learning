@@ -15,3 +15,4 @@ The goal of this folder is to **learn ML step by step**, practice core algorithm
 
 ---
 
+### today I am working on the Dataset for the subscription is or not for the good one and implement the model with there Acuracy compare i do the so changes like a model evualiation and compare the multiple models like Logistic , randomforest and DecisionTree so the next task is not complte 
